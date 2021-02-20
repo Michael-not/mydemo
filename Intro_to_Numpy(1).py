@@ -1,5 +1,4 @@
 import numpy as np
-from numpy import pi
 #1.1 Задаем размер масива
 size = 11
 #1.2 Создаем нулевой масив заданого размера
